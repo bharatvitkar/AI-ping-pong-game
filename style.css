@@ -23,3 +23,21 @@ body
 {
   font-size: 23px;
 }
+
+.redo
+{
+  padding: 5px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgba(128, 0, 66, 0.938);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(221, 255, 30);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(250, 2, 2);
+}
